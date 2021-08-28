@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079915360806",
+    "project_id": "fbagain-d2bb6",
+    "storage_bucket": "fbagain-d2bb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079915360806:android:d3162fdf1184df273cece7",
+        "android_client_info": {
+          "package_name": "com.example.fbagain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079915360806-oh512rmu7cr2blj0fpm5kvdaqcptcicb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqJJKPXln3toUEDARe514vpUrzEa3tNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079915360806-oh512rmu7cr2blj0fpm5kvdaqcptcicb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
